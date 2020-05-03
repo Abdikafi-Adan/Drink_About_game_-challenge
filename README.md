@@ -1,6 +1,6 @@
 # Drink_About_game_-challenge 
 
-###Drink About is a simple function that will check the age and return a drink appropriate for your age. Create a function called whatCanIDrink. This function should take in age as parameter. The function should do the following:
+### Drink About is a simple function that will check the age and return a drink appropriate for your age. Create a function called whatCanIDrink. This function should take in age as parameter. The function should do the following:
 
 * the age is less than 0, then it should return "Sorry. I can’t tell what drink because that age is incorrect!"
 * If the age is less than 14, then it should return "Drink Toddy"
